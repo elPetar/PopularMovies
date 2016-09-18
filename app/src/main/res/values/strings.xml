@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Popular Movies "</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Closed drawer</string>
+    <string name="no_internet">Nije moguće ostvariti internet vezu</string>
+    <string-array name="movie_sort">
+        <item>Popular movies</item>
+        <item>Top rated movies</item>
+        <item>Popular TV Show\'s</item>
+    </string-array>
+</resources>
